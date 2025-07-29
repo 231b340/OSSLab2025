@@ -2,4 +2,4 @@
 ## Lab Exercise 1
 Name: Siddhi Jain
 Roll Number: 231B340
-Email: siddhi@juetguna.in
+Email: 231b340@juetguna.in
